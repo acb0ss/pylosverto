@@ -46,7 +46,7 @@ nav a:hover {
 
 /* LOGO SIZING RULE */
 #main-logo {
-    height: 70px;            
+    height: 70px;            /* Fixed height for standard header size */
     max-height: 70px;
     width: auto;             
     max-width: 250px;
