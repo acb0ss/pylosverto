@@ -1,0 +1,5 @@
+<footer>
+    <img src="cloudops-io-logo-white-updated.jpg" alt="Pylos Verto-IQ Full Logo">
+    <p style="margin-top: 5px;">Leveling the Playing Field in Lead Acquisition.</p>
+    <p>&copy; 2025 Pylos Verto-IQ. All rights reserved.</p>
+</footer>

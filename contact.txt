@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact & Booking | Pylos Verto-IQ</title>
+    <meta name="description" content="Book your free discovery session instantly to start your sales growth journey with Pylos Verto-IQ.">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="cloudops-io-logo-white-updated-thumbnail.jpg" type="image/jpeg">
+</head>
+<body>
+
+    <header>
+        <a href="index.html" class="logo-link" style="display: flex; align-items: center;">
+            <img src="cloudops-io-logo-white-updated-thumbnail.jpg" alt="Pylos Verto-IQ Logo" id="main-logo"> 
+        </a>
+        
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="services.html">Our Services</a>
+            <a href="pricing.html">Pricing / CPL</a>
+            <a href="success.html">Success Stories</a>
+            <a href="about.html">About Us</a>
+            <a href="contact.html" style="border-bottom: 2px solid var(--color-accent);">Contact</a>
+            <a href="contact.html" class="cta-button">Book Your Discovery Session</a>
+        </nav>
+    </header>
+
+    <main>
+        <section style="background-color: var(--color-light-accent);">
+            <h2>Book Your Free Discovery Session</h2>
+            <p style="font-size: 1.2rem; max-width: 800px; margin: 1rem auto;">Ready to level up your lead acquisition? Find a time that works for you below. This 30-minute session is free, no-obligation, and focused entirely on your growth goals.</p>
+        </section>
+
+        <section style="background-color: white; padding-top: 2rem;">
+            <div style="max-width: 800px; margin: 0 auto; padding: 40px; border: 2px dashed #ccc; text-align: center;">
+                <h3>CALENDAR WIDGET PLACEHOLDER</h3>
+                <p>This is where your live booking calendar will appear once you paste the embed code here.</p>
+                <p style="font-size: 0.9rem;">(For example, the code you get from Calendly goes inside this area.)</p>
+            </div>
+            
+            <p style="margin-top: 40px;">Prefer to email? Reach us at: **hello@pylosverto-iq.com**</p>
+        </section>
+    </main>
+
+    <footer>
+        <img src="cloudops-io-logo-white-updated.jpg" alt="Pylos Verto-IQ Full Logo">
+        <p style="margin-top: 5px;">Leveling the Playing Field in Lead Acquisition.</p>
+        <p>&copy; 2025 Pylos Verto-IQ. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>

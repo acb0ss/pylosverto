@@ -1,0 +1,15 @@
+<header>
+    <a href="index.html" class="logo-link" style="display: flex; align-items: center;">
+        <img src="cloudops-io-logo-white-updated-thumbnail.jpg" alt="Pylos Verto-IQ Logo" id="main-logo"> 
+    </a>
+    
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="services.html">Our Services</a>
+        <a href="pricing.html">Pricing / CPL</a>
+        <a href="success.html">Success Stories</a>
+        <a href="about.html">About Us</a>
+        <a href="contact.html">Contact</a>
+        <a href="contact.html" class="cta-button">Book Your Discovery Session</a>
+    </nav>
+</header>
