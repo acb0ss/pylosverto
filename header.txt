@@ -1,6 +1,6 @@
 <header>
     <a href="index.html" class="logo-link" style="display: flex; align-items: center;">
-        <img src="PylosVerto.IQLogo.jpg" alt="Pylos Verto-IQ Logo" id="main-logo"> 
+        <img src="PylosVerto.IQLogo.jpg" alt="PylosVerto-IQ Logo" id="main-logo"> 
     </a>
     
     <nav>
@@ -12,6 +12,4 @@
         <a href="contact.html">Contact</a>
         <a href="contact.html" class="cta-button">Book Your Discovery Session</a>
     </nav>
-
 </header>
-
